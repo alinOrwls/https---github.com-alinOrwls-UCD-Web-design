@@ -1,0 +1,29 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../Downloads/Unit_2_HTML_Basics-20221208T120627Z-001/Unit_2_HTML_Basics"
+	},
+	{
+		"path": "../../UCD/Unit_4_Visual_Elements_and_Graphics"
+	},
+	{
+		"path": "../../UCD/Unit_6_Page_Layout"
+	},
+	{
+		"path": "../../UCD/Unit_7_Links_Layout"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../../UCD/Unit_10_Web_Development-20221208T121651Z-001/Unit_10_Web_Development"
+	}
+],
+  "settings": {
+    "emmet.showSuggestionsAsSnippets": true,
+    "liveServer.settings.multiRootWorkspaceName": "Unit_7_Links_Layout"
+  }
+}
